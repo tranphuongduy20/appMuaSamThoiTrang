@@ -2,11 +2,11 @@
 
 ## Giới thiệu
   ### Tên đề tài
-     Ứng dụng Quản lý Cửa hàng Thời trang
+   Ứng dụng Quản lý Cửa hàng Thời trang
 ![alt](https://lh3.googleusercontent.com/DxXWpPmv-gMt2oeqTInicTpuJmhdGxoPobatwh34EEMJRJqnoC6Ej_i8JWug9EDTY2FXBTL6L7MmAQXvtBUq7r3CLw7iz-h3aFffQIjCssu92xhz7ZaVo1KcgUuOFoJjyUk54TI8E5rP3uh2benowEjJ8H3rf52kolKvDPDKolliEjdA8d_Edb6M814P7tSJ_wpsvQyjkxOatr6_sb_k74G53sSrAp4MVC2tVsRc87BzvV-YGurQb-viVZIjAiBEgN58MmM_we8_OHCRVdK8V8P5ldnlVWA7A5Nn28f6vMHLMWSiGUkIf2ChaAofa9WowVmicYs3N-Tr3wZWuepUfQiTGr3goX-NAermOX7at1WM-Njb17TrqNyLwNupOO0Cml4gWuueqlc5oEHXDFWtvymtrWn729k9dqDXpFTgdLinq2xp_hqEIX7WH14h58Cka8CeTs9H1LwmpMvY16wvzLPemHwkTZCcm0nK47pwXMajReMGwnLQlemFGQCxyqkcOZicYsZ2Xlhyow9dxd2DeECksrWJtJKxyuPY1Od8lgkzOIjouM-MJpL7iJ0RCAUP4qEEnaL8zrw3luE7F7MnxK3u8UXISeo34146UXWLNKSdXIs9P7NtJQTsl9vTJw7vOsfrj8OuZ37wRImN8rye1x-XDQErZ8RQJfkyGDZxuIXIihKBbHHd1M0cHjsiGw=w1870-h394-no?authuser=0)
   ### Thông tin nhóm
-    Đinh Quang Hoàng - 18520282
-    Trần Phương Duy  - 18520038
+   Đinh Quang Hoàng - 18520282
+   Trần Phương Duy  - 18520038
 Logo
 Poster: 
 Mô tả tổng thể 

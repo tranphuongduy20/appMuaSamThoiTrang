@@ -29,17 +29,21 @@
    * Hệ quản trị cơ sở dữ liệu: MySQL
    * Công nghệ: Nodejs, React native
    * Công cụ xây dựng ứng dụng: Visual Studio Code
-  ## Môi trường triển khai
+  ### Môi trường triển khai
    * Hệ điều hành: Microsoft Windows 
    * Nền tảng: android, trình duyệt
 ## Tài liệu tham khảo
-  *JavaScript 
-  * https://developer.mozilla.org/en-US/docs/Web/JavaScript 
-  * https://www.w3schools.com/js/ 
-  *React navigation: 5.x 
+  * JavaScript
+  
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  
+  https://www.w3schools.com/js/ 
+  * React navigation: 5.x 
   https://reactnavigation.org/
-  *React native: 0.62 
+  * React native: 0.62 
   https://reactnative.dev/docs/getting-started
-  *Nodejs
-  * https://nodejs.org/en/docs
-  * https://sequelize.org
+  * Nodejs
+  
+  https://nodejs.org/en/docs
+  
+  https://sequelize.org

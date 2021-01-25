@@ -16,6 +16,7 @@
 ## Thiết kế
   ### Thiết kế dữ liệu
    Hệ quản trị cơ sở dữ liệu: MySQL
+   
    ![alt](https://lh3.googleusercontent.com/aVzepNypvzz--QozMFkACTZO6ATJ2EfZzxKuAIZfrUKJlAyq37YYZS0fUtSMX_PajcBpHaUH3IQchsa15m-GPEJdT5SN2BK1iVkXvDxFgm7jUdxVkqLXJ8aQTo8eh0-gE5cF6qQFv79cmUURbsX3ZfyHmU4EAGGxPHSliYAUoCMnl-TcPcjbh_0Fm-C6bq7NYtQ4-QogBQyqIAPbRc9DgwgV0bXkl33jhVEER7BJ24cMjJ-d9YIrbyEGAMDSydvISz0ahCOdbZM0AupJrgkcK_DPXA39_xZ73jHV_kIQ41mRMiKyxZE5oXZELkkBcUjvr_H-21fqyd5Dq_Mj77tIOZQ4FByfxNcUqZxVLAYSH3-GFq4EIscdyt_JejdeMBkRc03zLSpqC8-hak3bh6xOH11xNthQOY6smuHnzzU2Bdp50AdNO1EwfUNkpWRpA5nHqMe3cit5cypdZ8mFADRj7mex7GTsEdR-pcB05sVDTzib-Oaw3jtQhbtDXBvBJcMUiEhbkq_pSMY2q2ljZuctZVyGIW5rPwJpna_-7CvxBRlVgL077YtMo3dSxIwYmE6xMLiopjpC6GfQesw8vmsUExXAzCOtAVYr5ksCAQzCFNH_7rPyMNKGNJ_F39kBj6rRmQnCim2QaOOnM4VtFHg4X0r7GRlY2g1aX_oS_wOXyVCEQcvvwuhd3NZDELM15w=w730-h474-no?authuser=0)
   ### Thiết kế giao diện
    #### Sơ đồ liên kết các màn hình
@@ -39,8 +40,10 @@
   
   https://www.w3schools.com/js/ 
   * React navigation: 5.x 
+  
   https://reactnavigation.org/
   * React native: 0.62 
+  
   https://reactnative.dev/docs/getting-started
   * Nodejs
   
